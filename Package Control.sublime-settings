@@ -2,11 +2,22 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SideBarEnhancements"
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"Arduino-like IDE",
 		"ConvertToUTF8",
-		"Package Control"
+		"CSS3",
+		"CSScomb",
+		"DashDoc",
+		"Emmet",
+		"GitGutter",
+		"JsFormat",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeTmpl",
+		"TrailingSpaces"
 	]
 }
